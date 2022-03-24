@@ -21,7 +21,7 @@
 ##
   
 <div align="center">
-  <a href="mailto:gustav_valores@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:gustav_valores@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Hotmail-8B89CC?style=for-the-badge&logo=Hotmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-do-carmo-lima-568629163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
