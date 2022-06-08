@@ -1,8 +1,9 @@
 ### Olá !! 👋
 
 
-- 🔭 Sou um estudante de Sistemas de informação;
-- 🌱 Busco seguir a carreira em programação com foco no Back-End: Python SQL C# Análise de dados
+-  Sou um estudante de Sistemas de informação;
+-  Busco seguir a carreira em programação com foco no Back-End: Python SQL C# Análise de dados
+-  Crio automações no Back-End com Python e banco de dados, modelagem e inserção automática de informações em SGBD's
 
 <div align="center">
   <a href="https://github.com/limagustav0">
